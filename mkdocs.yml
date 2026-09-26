@@ -1,0 +1,110 @@
+site_name: Nome do projeto
+site_description: Descrição do projeto
+site_url: http://url_do_repositorio
+repo_url: http://url_do_repositorio
+repo_name: nome-do-repositorio
+
+nav:
+  - Descrição do projeto: index.md
+  - Metodologia: metodologia.md
+  - Entendimento de negócio: entendimento-negocio.md
+  - Critérios de sucesso: criterios-sucesso.md
+  - Fonte dos dados: fonte-dados.md
+  - Entendimento dos dados: entendimento-dados.md
+  - Análise exploratória: analise-exploratoria.md
+  - Preparação dos dados: preparacao.md
+  - Modelagem dos dados: modelagem.md
+  - Avaliação dos resultados: avaliacao.md
+  - Implementação: implementacao.md
+  - Status do projeto: status.md
+
+plugins:
+  - search
+  - mkdocs-jupyter:
+      include_source: true
+      ignore_h1_titles: true
+  - glightbox:
+      touchNavigation: true
+      loop: false
+      effect: zoom
+      width: 100%
+      height: auto
+      zoomable: true
+      draggable: true
+  - awesome-pages
+  - print-site:
+      add_to_navigation: false
+      add_full_urls: false
+      add_table_of_contents: true
+      toc_title: "Sumário"
+      toc_depth: 2
+      enumerate_headings: true
+      enumerate_figures: true
+      add_cover_page: true
+
+theme:
+  name: material
+  language: pt-BR
+  custom_dir: docs/overrides
+  # Defina `logo` e `favicon` apontando para os arquivos da sua organização,
+  # por exemplo: logo: imagens/logos/logo-branco.svg
+  icon:
+    repo: fontawesome/brands/github
+  palette:
+    - scheme: default
+      primary: custom
+      accent: custom
+      toggle:
+        icon: fontawesome/solid/toggle-on
+        name: Mudar para o modo escuro
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: fontawesome/solid/toggle-off
+        name: Mudar para o modo claro
+  features:
+    - navigation.top
+    - navigation.tracking
+    - content.code.copy
+
+markdown_extensions:
+  - abbr
+  - admonition
+  - attr_list
+  - def_list
+  - footnotes
+  - md_in_html
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  - pymdownx.keys
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.tabbed:
+      alternate_style: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+extra_javascript:
+  - assets/js/mathjax.js
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/tablesort.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/sorts/tablesort.number.min.js
+  - https://cdnjs.cloudflare.com/ajax/libs/tablesort/5.2.1/sorts/tablesort.date.min.js
+
+extra_css:
+  - assets/css/fonts.css
+  - assets/css/brand.css
+  - assets/css/tables.css

@@ -1,0 +1,26 @@
+/*
+ * Tipografia da documentação.
+ *
+ * Usa duas famílias abertas do Google Fonts, sem vínculo com nenhuma marca.
+ * Para adotar a fonte institucional da sua organização, declare um @font-face
+ * apontando para o arquivo em `docs/assets/fonts/` e troque os nomes abaixo.
+ */
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Figtree:wght@300;400;500;600;700;800;900&display=swap');
+
+:root {
+  --md-text-font: 'Lato';
+}
+
+body {
+  font-family: 'Lato', sans-serif;
+}
+
+.md-typeset h1,
+.md-typeset h2,
+.md-typeset h3,
+.md-typeset h4,
+.md-typeset h5,
+.md-typeset h6 {
+  font-family: 'Figtree', 'Lato', sans-serif;
+}

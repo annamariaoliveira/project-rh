@@ -1,0 +1,7 @@
+# Defina aqui os responsáveis por revisar mudanças em cada parte do repositório.
+# Documentação: https://docs.github.com/pt/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+#
+# Exemplos (descomente e ajuste para os usuários/times reais):
+# * @usuario-github
+# /src/ @organizacao/time-de-dados
+# /docs/ @organizacao/time-de-dados

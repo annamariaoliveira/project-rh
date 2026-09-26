@@ -1,0 +1,49 @@
+/*
+ * Paleta da documentação.
+ *
+ * Os valores abaixo são um ponto de partida neutro. Para aplicar a identidade
+ * visual da sua organização, troque apenas os hexadecimais das variáveis
+ * `--brand-*` — os blocos de tema logo abaixo se ajustam sozinhos.
+ */
+:root {
+  /* Primárias */
+  --brand-azul-profundo: #1B4965;
+  --brand-azul-marinho: #123047;
+  --brand-azul-cobalto: #2A6F97;
+  --brand-azul-claro: #62B6CB;
+
+  /* Secundárias */
+  --brand-verde: #74C69D;
+  --brand-amarelo: #F4D35E;
+
+  /* Complementares — acentos */
+  --brand-coral: #EE6C4D;
+  --brand-rosa: #F2A6A6;
+  --brand-laranja: #F49D6E;
+  --brand-roxo: #8E7DBE;
+
+  /* Semânticas (feedback) */
+  --brand-success: #2BA86B;
+  --brand-warning: #F2A93B;
+  --brand-danger: #E23D4F;
+  --brand-info: #3D8DC8;
+}
+
+/* Tema claro */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: var(--brand-azul-profundo);
+  --md-primary-fg-color--light: var(--brand-azul-claro);
+  --md-primary-fg-color--dark: var(--brand-azul-marinho);
+  --md-accent-fg-color: var(--brand-azul-cobalto);
+  --md-default-bg-color: #F5F7FA;
+}
+
+/* Tema escuro */
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: #163F5F;
+  --md-primary-fg-color--light: var(--brand-azul-claro);
+  --md-primary-fg-color--dark: #0E2638;
+  --md-accent-fg-color: var(--brand-azul-claro);
+  --md-default-bg-color: #06141F;
+  --md-typeset-a-color: var(--brand-azul-claro);
+}

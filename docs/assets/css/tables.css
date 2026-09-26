@@ -1,0 +1,10 @@
+/* Tabelas ocupando toda a largura do conteúdo */
+.md-typeset table:not([class]) {
+  display: table;
+  width: 100%;
+}
+
+/* Cabeçalhos ordenáveis (tablesort) */
+.md-typeset th[role="columnheader"] {
+  cursor: pointer;
+}
