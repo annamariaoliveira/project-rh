@@ -1,8 +1,8 @@
-site_name: Nome do projeto
+site_name: Projeto RH
 site_description: Descrição do projeto
-site_url: http://url_do_repositorio
-repo_url: http://url_do_repositorio
-repo_name: nome-do-repositorio
+site_url: https://github.com/annamariaoliveira/project-rh
+repo_url: https://github.com/annamariaoliveira/project-rh
+repo_name: project-rh
 
 nav:
   - Descrição do projeto: index.md
