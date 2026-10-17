@@ -1,0 +1,36 @@
+variavel;descricao;valores;Tipo
+Idade;Idade do funcionário em anos;[18, 60];Discreta
+Desligamento;Indica se o funcionário desligou-se da empresa (Sim/Não) - Variável Alvo;['Sim', 'Não'];Nominal
+Viagens_de_Negocios;Frequência com que o funcionário viaja a trabalho;['Raramente', 'Nenhuma'];Nominal
+Diaria;Custo diário do funcionário / Valor de diária;[102, 1499];Discreta
+Departamento;Departamento onde o funcionário atua (Vendas, P&D, RH);['Vendas', 'Recursos Humanos'];Nominal
+Distancia_de_Casa;Distância entre a residência do funcionário e o local de trabalho;[1, 29];Discreta
+Nivel_de_Educacao;Nível de escolaridade (1: Abaixo da Faculdade, 2: Faculdade, 3: Bacharelado, 4: Mestrado, 5: Doutorado);[1, 5];Discreta
+Area_de_Formacao;Área de formação acadêmica do funcionário;['Ciências da Vida', 'Recursos Humanos'];Nominal
+Contagem_de_Funcionarios;Contagem de funcionários (valor constante 1 para todos);[1, 1];Discreta
+Numero_do_Funcionario;Identificador único (ID) do funcionário;[1, 2068];Discreta
+Satisfacao_com_Ambiente;Satisfação com o ambiente de trabalho (1: Baixa, 2: Média, 3: Alta, 4: Muito Alta);[1, 4];Discreta
+Genero;Gênero do funcionário;['Feminino', 'Masculino'];Nominal
+Valor_Hora;Valor da taxa por hora de trabalho;[30, 100];Discreta
+Envolvimento_com_Trabalho;Nível de envolvimento/engajamento com o trabalho (1: Baixo, 2: Médio, 3: Alto, 4: Muito Alto);[1, 4];Discreta
+Nivel_do_Cargo;Nível hierárquico do cargo na empresa (1 a 5);[1, 5];Discreta
+Cargo;Nome da função ou cargo que o funcionário ocupa;['Executivo de Vendas', 'Recursos Humanos'];Nominal
+Satisfacao_no_Trabalho;Satisfação geral do funcionário com o trabalho (1: Baixa, 2: Média, 3: Alta, 4: Muito Alta);[1, 4];Discreta
+Estado_Civil;Estado civil do funcionário;['Solteiro', 'Divorciado'];Nominal
+Renda_Mensal;Salário mensal bruto do funcionário;[1009, 19999];Discreta
+Taxa_Mensal;Taxa mensal / Variação salarial;[2094, 26999];Discreta
+Num_Empresas_Trabalhadas;Número de empresas em que o funcionário trabalhou anteriormente;[0, 9];Discreta
+Maior_de_18;Indica se o funcionário é maior de 18 anos (S/N);['S', 'S'];Nominal
+Hora_Extra;Indica se o funcionário costuma fazer horas extras (Sim/Não);['Sim', 'Não'];Nominal
+Percentual_Aumento_Salario;Percentual de aumento salarial recebido no último ano;[11, 25];Discreta
+Avaliacao_de_Desempenho;Nota da avaliação de desempenho (3: Excelente, 4: Excepcional);[3, 4];Discreta
+Satisfacao_em_Relacionamentos;Satisfação com os relacionamentos interpessoais no trabalho (1: Baixa, 2: Média, 3: Alta, 4: Muito Alta);[1, 4];Discreta
+Horas_Padrao;Horas padrão de trabalho no período (geralmente constante 80);[80, 80];Discreta
+Nivel_de_Opcoes_de_Acoes;Nível de opções de ações concedidas ao funcionário (0 a 3);[0, 3];Discreta
+Total_Anos_Trabalhados;Total de anos de experiência profissional na carreira;[0, 40];Discreta
+Treinamentos_Ano_Passado;Número de vezes que o funcionário participou de treinamentos no ano passado;[0, 6];Discreta
+Equilibrio_Vida_Pessoal_Profissional;Percepção do equilíbrio entre vida pessoal e profissional (1: Ruim, 2: Bom, 3: Muito Bom, 4: Excelente);[1, 4];Discreta
+Anos_na_Empresa;Tempo de serviço do funcionário na empresa atual (em anos);[0, 40];Discreta
+Anos_na_Funcao_Atual;Tempo que o funcionário está no mesmo cargo/função atual (em anos);[0, 18];Discreta
+Anos_Desde_Ultima_Promocao;Tempo decorrido desde a última promoção do funcionário (em anos);[0, 15];Discreta
+Anos_com_Gerente_Atual;Tempo que o funcionário trabalha sob a gestão do mesmo líder/gerente atual (em anos);[0, 17];Discreta
