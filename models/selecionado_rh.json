@@ -1,0 +1,7 @@
+{
+  "modelo": "mini batch k-means",
+  "params": "{'batch_size': 256, 'n_clusters': 2}",
+  "grupos": 2,
+  "silhueta": 0.13158139637092967,
+  "arquivo": "model_rh_mini_batch_k_means.joblib"
+}

@@ -1,8 +1,8 @@
-# Projeto RH
+# Projeto RH - Segmentação de Colaboradores 
 
 ## Introdução
 
-<span style="color:red">**Adicione um texto**</span>
+<span Este projeto tem como finalidade aplicar técnicas de Machine Learning não supervisionado para agrupar e segmentar colaboradores de uma organização. O objetivo central é identificar perfis distintos dentro do quadro de pessoal com base em métricas de desempenho, remuneração, tempo de casa e dados demográficos, auxiliando a gestão estratégica de Recursos Humanos.</span>
 
 ## Dados do projeto
 
@@ -14,20 +14,20 @@
     - [ ] Análise exploratória
     - [ ] Modelo preditivo
     - [ ] Modelo de classificação
-    - [ ] Modelo de agrupamento
+    - [x] Modelo de agrupamento
     - [ ] Detecção de anomalias
 
 ### Nível de acesso
 
 !!! warning "Confidencialidade"
-    - [ ] Público
+    - [x] Público
     - [ ] Interno (toda a organização)
     - [ ] Restrito (apenas a área requisitante)
 
 ### Objetivos de negócio
 
 !!! quote ""
-    <span style="color:red">**Adicione um texto**</span>
+    <span Mapear e compreender os diferentes perfis de colaboradores na empresa através de agrupamentos (clusters), permitindo insights direcionados para retenção de talentos e melhoria de políticas internas de RH.</span>
 
 ## Sobre o projeto
 
@@ -51,8 +51,8 @@ flowchart TD
 
 ### Dados da equipe técnica
 
-| Nome               | Cargo / Função        | E-mail            |
-| :----------------- | :-------------------- | :---------------- |
-| Membro da equipe 1 | Analista de Negócios  | email@exemplo.com |
-| Membro da equipe 2 | Engenheiro de Dados   | email@exemplo.com |
-| Membro da equipe 3 | Cientista de Dados    | email@exemplo.com |
+| Nome                               | Cargo / Função        | E-mail                          |
+| :----------------------------------| :-------------------- | :-------------------------------|
+| Anna Maria do Nascimento Oliveira  | Cientista de Dados    | annamariadonascimento@gmail.com |
+| Jane Mery Ferreira de Miranda      | Cientista de Dados    | janymeryc2@gmail.com            |
+
