@@ -183,5 +183,9 @@ cython_debug/
 #   https://docs.astral.sh/uv/concepts/projects/sync/
 .uv-cache/
 
+# metadata
+.metadata/
+metadata/
+
 # ruff
 .ruff_cache/
