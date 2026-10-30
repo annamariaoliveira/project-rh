@@ -1,0 +1,9 @@
+Característica;Menor valor atípico;Atípico abaixo de;Atípico acima de;Maior valor atípico
+Renda_Mensal;;;16581.0;19999
+Num_Empresas_Trabalhadas;;;8.5;9
+Total_Anos_Trabalhados;;;28.5;40
+Treinamentos_Ano_Passado;0.0;0.5;4.5;6
+Anos_na_Empresa;;;18.0;40
+Anos_na_Funcao_Atual;;;14.5;18
+Anos_Desde_Ultima_Promocao;;;7.5;15
+Anos_com_Gerente_Atual;;;14.5;17
