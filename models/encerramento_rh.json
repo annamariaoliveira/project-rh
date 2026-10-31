@@ -1,0 +1,11 @@
+{
+  "status": "pronto_para_revisao",
+  "pacote_publicado": false,
+  "pendencias": [
+    "Aprovar critérios de avaliação com RH",
+    "Persistir o pré-processador do notebook 03",
+    "Validar classificação ponta a ponta para novos registros",
+    "Definir responsáveis e limites de monitoramento",
+    "Avaliar estabilidade dos clusters"
+  ]
+}

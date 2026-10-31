@@ -104,14 +104,14 @@ Idade;Desligamento;Viagens_de_Negocios;Valor_Diaria;Departamento;Distancia_de_Ca
 20;Sim;Frequentemente;871;Pesquisa e Desenvolvimento;6;3;Ciências da Vida;4;Feminino;66;2;1;Técnico de Laboratório;4;Solteiro;2926;19783;1;Sim;18;3;2;0;1;5;3;1;0;1;0;Até 2 anos;0;0
 34;Não;Raramente;665;Pesquisa e Desenvolvimento;6;4;Outro;1;Feminino;41;3;2;Cientista de Pesquisa;3;Solteiro;4809;12482;1;Não;14;3;3;0;16;3;3;16;13;2;10;Até 2 anos;0;0
 37;Não;Nenhuma;1040;Pesquisa e Desenvolvimento;2;2;Ciências da Vida;3;Masculino;100;2;2;Representante de Saúde;4;Divorciado;5163;15850;5;Não;14;3;4;1;17;2;4;1;0;0;0;3 a 5 anos;1;0
-59;Não;Nenhuma;1420;Recursos Humanos;2;4;Recursos Humanos;3;Feminino;32;2;5;Gerente;4;Casado;18844;21922;9;Não;21;4;4;1;30;3;3;3;2;2;2;6 a 10 anos;1;0
+59;Não;Nenhuma;1420;Recursos Humanos;2;4;Recursos Humanos;3;Feminino;32;2;5;Gerente;4;Casado;18844;21922;9;Não;21;4;4;1;30;3;3;3;2;2;2;6 a 10 anos;1;1
 50;Não;Frequentemente;1115;Pesquisa e Desenvolvimento;1;3;Ciências da Vida;1;Feminino;73;3;5;Diretor de Pesquisa;2;Casado;18172;9755;3;Sim;19;3;1;0;28;1;2;8;3;0;7;3 a 5 anos;0;0
 25;Sim;Raramente;240;Vendas;5;3;Marketing;3;Masculino;46;2;2;Executivo de Vendas;3;Solteiro;5744;26959;1;Sim;11;3;4;0;6;1;3;6;4;0;3;Até 2 anos;0;1
 25;Não;Raramente;1280;Pesquisa e Desenvolvimento;7;1;Medicina;4;Masculino;64;2;1;Cientista de Pesquisa;4;Casado;2889;26897;1;Não;11;3;3;2;2;2;3;2;2;2;1;Até 2 anos;0;0
 22;Não;Raramente;534;Pesquisa e Desenvolvimento;15;3;Medicina;2;Feminino;59;3;1;Técnico de Laboratório;4;Solteiro;2871;23785;1;Não;15;3;3;0;1;5;3;0;0;0;0;Até 2 anos;0;0
 51;Não;Frequentemente;1456;Pesquisa e Desenvolvimento;1;4;Medicina;1;Feminino;30;2;3;Representante de Saúde;1;Solteiro;7484;25796;3;Não;20;4;3;0;23;1;2;13;12;12;8;3 a 5 anos;0;0
 34;Sim;Frequentemente;658;Pesquisa e Desenvolvimento;7;3;Ciências da Vida;1;Masculino;66;1;2;Técnico de Laboratório;3;Solteiro;6074;22887;1;Sim;24;4;4;0;9;3;3;9;7;0;6;Até 2 anos;0;0
-54;Não;Nenhuma;142;Recursos Humanos;26;3;Recursos Humanos;4;Feminino;30;4;4;Gerente;4;Solteiro;17328;13871;2;Sim;12;3;3;0;23;3;3;5;3;4;4;Até 2 anos;0;0
+54;Não;Nenhuma;142;Recursos Humanos;26;3;Recursos Humanos;4;Feminino;30;4;4;Gerente;4;Solteiro;17328;13871;2;Sim;12;3;3;0;23;3;3;5;3;4;4;Até 2 anos;0;1
 24;Não;Raramente;1127;Pesquisa e Desenvolvimento;18;1;Ciências da Vida;2;Masculino;52;3;1;Técnico de Laboratório;3;Casado;2774;13257;0;Não;12;3;3;1;6;2;3;5;3;1;2;Até 2 anos;0;0
 34;Não;Raramente;1031;Pesquisa e Desenvolvimento;6;4;Ciências da Vida;3;Feminino;45;2;2;Cientista de Pesquisa;2;Divorciado;4505;15000;6;Não;15;3;3;1;12;3;3;1;0;0;0;6 a 10 anos;1;0
 37;Não;Raramente;1189;Vendas;3;3;Ciências da Vida;3;Masculino;87;3;3;Executivo de Vendas;4;Solteiro;7428;14506;2;Não;12;3;1;0;12;3;3;5;3;1;3;Até 2 anos;0;1
@@ -439,7 +439,7 @@ Idade;Desligamento;Viagens_de_Negocios;Valor_Diaria;Departamento;Distancia_de_Ca
 30;Não;Raramente;413;Vendas;7;1;Marketing;4;Masculino;57;3;1;Representante de Vendas;2;Solteiro;2983;18398;0;Não;14;3;1;0;4;3;3;3;2;1;2;Até 2 anos;0;1
 35;Não;Raramente;1276;Pesquisa e Desenvolvimento;16;3;Ciências da Vida;4;Masculino;72;3;3;Representante de Saúde;3;Casado;7632;14295;4;Sim;12;3;3;0;10;2;3;8;7;0;0;3 a 5 anos;1;0
 31;Sim;Frequentemente;534;Pesquisa e Desenvolvimento;20;3;Ciências da Vida;1;Masculino;66;3;3;Representante de Saúde;3;Casado;9824;22908;3;Não;12;3;1;0;12;2;3;1;0;0;0;3 a 5 anos;0;0
-34;Sim;Frequentemente;988;Recursos Humanos;23;3;Recursos Humanos;2;Feminino;43;3;3;Recursos Humanos;1;Divorciado;9950;11533;9;Sim;15;3;3;3;11;2;3;3;2;0;2;6 a 10 anos;1;0
+34;Sim;Frequentemente;988;Recursos Humanos;23;3;Recursos Humanos;2;Feminino;43;3;3;Recursos Humanos;1;Divorciado;9950;11533;9;Sim;15;3;3;3;11;2;3;3;2;0;2;6 a 10 anos;1;1
 42;Não;Frequentemente;1474;Pesquisa e Desenvolvimento;5;2;Outro;2;Masculino;97;3;1;Técnico de Laboratório;3;Casado;2093;9260;4;Não;17;3;4;1;8;4;3;2;2;2;0;3 a 5 anos;1;0
 36;Não;Nenhuma;635;Vendas;10;4;Medicina;2;Masculino;32;3;3;Executivo de Vendas;4;Solteiro;9980;15318;1;Não;14;3;4;0;10;3;2;10;3;9;7;Até 2 anos;0;1
 22;Sim;Frequentemente;1368;Pesquisa e Desenvolvimento;4;1;Grau Técnico;3;Masculino;99;2;1;Técnico de Laboratório;3;Solteiro;3894;9129;5;Não;16;3;3;0;4;3;3;2;2;1;2;3 a 5 anos;1;0
@@ -998,7 +998,7 @@ Idade;Desligamento;Viagens_de_Negocios;Valor_Diaria;Departamento;Distancia_de_Ca
 27;Não;Raramente;205;Vendas;10;3;Marketing;4;Feminino;98;2;2;Executivo de Vendas;4;Casado;5769;7100;1;Sim;11;3;4;0;6;3;3;6;2;4;4;Até 2 anos;0;1
 27;Sim;Raramente;135;Pesquisa e Desenvolvimento;17;4;Ciências da Vida;4;Feminino;51;3;1;Cientista de Pesquisa;3;Solteiro;2394;25681;1;Sim;13;3;4;0;8;2;3;8;2;7;7;Até 2 anos;0;0
 26;Não;Raramente;683;Pesquisa e Desenvolvimento;2;1;Medicina;1;Masculino;36;2;1;Cientista de Pesquisa;4;Solteiro;3904;4050;0;Não;12;3;4;0;5;2;3;4;3;1;1;Até 2 anos;0;0
-42;Não;Raramente;1147;Recursos Humanos;10;3;Recursos Humanos;3;Feminino;31;3;4;Gerente;1;Casado;16799;16616;0;Não;14;3;3;1;21;5;3;20;7;0;9;Até 2 anos;0;0
+42;Não;Raramente;1147;Recursos Humanos;10;3;Recursos Humanos;3;Feminino;31;3;4;Gerente;1;Casado;16799;16616;0;Não;14;3;3;1;21;5;3;20;7;0;9;Até 2 anos;0;1
 52;Não;Raramente;258;Pesquisa e Desenvolvimento;8;4;Outro;3;Feminino;54;3;1;Técnico de Laboratório;1;Casado;2950;17363;9;Não;13;3;3;0;12;2;1;5;4;0;4;6 a 10 anos;1;0
 37;Não;Raramente;1462;Pesquisa e Desenvolvimento;11;3;Medicina;1;Feminino;94;3;1;Técnico de Laboratório;3;Solteiro;3629;19106;4;Não;18;3;1;0;8;6;3;3;2;0;2;3 a 5 anos;1;0
 35;Não;Frequentemente;200;Pesquisa e Desenvolvimento;18;2;Ciências da Vida;3;Masculino;60;3;3;Diretor de Manufatura;4;Solteiro;9362;19944;2;Não;11;3;3;0;10;2;3;2;2;2;2;Até 2 anos;0;0
@@ -1400,7 +1400,7 @@ Idade;Desligamento;Viagens_de_Negocios;Valor_Diaria;Departamento;Distancia_de_Ca
 33;Não;Frequentemente;1303;Pesquisa e Desenvolvimento;7;2;Ciências da Vida;4;Masculino;36;3;2;Representante de Saúde;3;Divorciado;5968;18079;1;Não;20;4;3;3;9;2;3;9;7;2;8;Até 2 anos;0;0
 43;Não;Raramente;574;Pesquisa e Desenvolvimento;11;3;Ciências da Vida;1;Masculino;30;3;3;Representante de Saúde;3;Casado;7510;16873;1;Não;17;3;2;1;10;1;3;10;9;0;9;Até 2 anos;0;0
 38;Não;Frequentemente;1444;Recursos Humanos;1;4;Outro;4;Masculino;88;3;1;Recursos Humanos;2;Casado;2991;5224;0;Sim;11;3;2;1;7;2;3;6;2;1;2;Até 2 anos;0;0
-55;Não;Raramente;189;Recursos Humanos;26;4;Recursos Humanos;3;Masculino;71;4;5;Gerente;2;Casado;19636;25811;4;Sim;18;3;1;1;35;0;3;10;9;1;4;3 a 5 anos;1;0
+55;Não;Raramente;189;Recursos Humanos;26;4;Recursos Humanos;3;Masculino;71;4;5;Gerente;2;Casado;19636;25811;4;Sim;18;3;1;1;35;0;3;10;9;1;4;3 a 5 anos;1;1
 31;Não;Raramente;1276;Pesquisa e Desenvolvimento;2;1;Medicina;4;Feminino;59;1;1;Técnico de Laboratório;4;Divorciado;1129;17536;1;Sim;11;3;3;3;1;4;3;1;0;0;0;Até 2 anos;0;0
 39;Não;Raramente;119;Vendas;15;4;Marketing;2;Masculino;77;3;4;Executivo de Vendas;1;Solteiro;13341;25098;0;Não;12;3;1;0;21;3;3;20;8;11;10;Até 2 anos;0;1
 42;Não;Nenhuma;335;Pesquisa e Desenvolvimento;23;2;Ciências da Vida;4;Masculino;37;2;2;Cientista de Pesquisa;3;Solteiro;4332;14811;1;Não;12;3;4;0;20;2;3;20;9;3;7;Até 2 anos;0;0

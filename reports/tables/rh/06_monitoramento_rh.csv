@@ -1,0 +1,6 @@
+indicador;frequencia;criterio
+Tamanho dos segmentos;Por lote;A definir com RH
+Qualidade dos dados de entrada;Por lote;A definir com RH
+Mudança na distribuição dos atributos;Mensal (proposta);Definir baseline
+Silhueta dos segmentos;Em reavaliações;Comparar com baseline
+Desligamento por segmento;Trimestral (proposta);Análise descritiva e humana

@@ -35,19 +35,8 @@
 
 | Data       | Versão | Descrição                   | Autor         |
 | :--------- | :----- | :-------------------------- | :------------ |
-| 00/00/0000 | 1.0    | Versão inicial do documento | Nome do autor |
+| 30/10/2026 | 1.0    | Versão inicial do projeto   | Anna e Jane   |
 
-### Dados do solicitante
-
-``` mermaid
-flowchart TD
-    id1[Área de negócio] --o id2[Setor requisitante]
-```
-
-| Nome                      | Cargo / Função | E-mail            |
-| :------------------------ | :------------- | :---------------- |
-| Especialista de negócio 1 | Função 1       | email@exemplo.com |
-| Especialista de negócio 2 | Função 2       | email@exemplo.com |
 
 ### Dados da equipe técnica
 

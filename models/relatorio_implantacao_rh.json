@@ -1,0 +1,20 @@
+{
+  "fase": "implantacao",
+  "decisao_avaliacao": "revisao_pendente",
+  "modelo": "dbscan",
+  "n_registros": 1470,
+  "n_atributos": 51,
+  "silhueta_avaliada": 0.1143858363825218,
+  "reproducao": {
+    "disponivel": false,
+    "ari": null,
+    "particao_reproduzida": false
+  },
+  "contrato": "contrato_rh.json",
+  "monitoramento": "reports/tables/rh/06_monitoramento_rh.csv",
+  "limitacoes": [
+    "Sem pré-processador persistido para dados brutos",
+    "Critérios de aceitação de RH ainda não formalizados",
+    "Sem decisões individuais automatizadas"
+  ]
+}
